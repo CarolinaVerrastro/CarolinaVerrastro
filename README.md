@@ -14,7 +14,7 @@ real-world problems, and I'm looking to move further into research.
 
 **Data & ML:** pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, ggplot2
 
-**Other:** PostgreSQL, Docker, Git, Jupyter
+**Other:** PostgreSQL, Docker, Git, Jupyter, Excel
 
 ### 📌 Background
 - Python software engineer at AZOS (São Paulo)

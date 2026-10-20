@@ -11,7 +11,9 @@ real-world problems, and I'm looking to move further into research.
 
 ### 🛠️ Tools I work with
 **Languages:** Python, R, SQL
+
 **Data & ML:** pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, ggplot2
+
 **Other:** PostgreSQL, Docker, Git, Jupyter
 
 ### 📌 Background

@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Carolina 👋
 
-<!--
-**CarolinaVerrastro/CarolinaVerrastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Data Science graduate (MSc, Merit) based in London.
+I'm interested in using machine learning and data analysis to understand
+real-world problems, and I'm looking to move further into research.
 
-Here are some ideas to get you started:
+### 🔍 Interests
+- Machine learning and predictive modelling
+- Exploratory data analysis and visualisation
+- Reproducible data pipelines and research tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools I work with
+**Languages:** Python, R, SQL
+**Data & ML:** pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, ggplot2
+**Other:** PostgreSQL, Docker, Git, Jupyter
+
+### 📌 Background
+- Python software engineer at AZOS (São Paulo)
+- Intern at IBM, working on AI models with IBM Watson
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/carolina-verrastro) · carolvdonato@gmail.com
